@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/zehranreshi/DataCollectionTest/hdr
+CXX_INCLUDES = -I/home/simrall/DataCollectionTest/hdr
 
 CXX_FLAGS = -std=gnu++17
 

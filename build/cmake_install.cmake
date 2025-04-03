@@ -1,4 +1,4 @@
-# Install script for directory: /home/zehranreshi/DataCollectionTest
+# Install script for directory: /home/simrall/DataCollectionTest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -51,7 +51,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/usr/local/bin" TYPE PROGRAM FILES "/home/zehranreshi/DataCollectionTest/build/jammer")
+  file(INSTALL DESTINATION "/usr/local/bin" TYPE PROGRAM FILES "/home/simrall/DataCollectionTest/build/jammer")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -62,5 +62,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zehranreshi/DataCollectionTest/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/simrall/DataCollectionTest/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
