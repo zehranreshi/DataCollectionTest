@@ -1,7 +1,3 @@
-/home/simrall/DataCollectionTest/build/CMakeFiles/jammer.dir
-/home/simrall/DataCollectionTest/build/CMakeFiles/edit_cache.dir
-/home/simrall/DataCollectionTest/build/CMakeFiles/rebuild_cache.dir
-/home/simrall/DataCollectionTest/build/CMakeFiles/list_install_components.dir
-/home/simrall/DataCollectionTest/build/CMakeFiles/install.dir
-/home/simrall/DataCollectionTest/build/CMakeFiles/install/local.dir
-/home/simrall/DataCollectionTest/build/CMakeFiles/install/strip.dir
+/home/zehranreshi/DataCollectionTest/build/CMakeFiles/jammer.dir
+/home/zehranreshi/DataCollectionTest/build/CMakeFiles/edit_cache.dir
+/home/zehranreshi/DataCollectionTest/build/CMakeFiles/rebuild_cache.dir
