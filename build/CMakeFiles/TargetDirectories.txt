@@ -1,3 +1,0 @@
-/home/zehranreshi/DataCollectionTest/build/CMakeFiles/jammer.dir
-/home/zehranreshi/DataCollectionTest/build/CMakeFiles/edit_cache.dir
-/home/zehranreshi/DataCollectionTest/build/CMakeFiles/rebuild_cache.dir
